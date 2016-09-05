@@ -1,4 +1,4 @@
-﻿namespace FSharp.DocumentDb.Wrappers.AssemblyInfo
+﻿namespace FSharp.DocumentDb.Tests.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("FSharp.DocumentDb.Wrappers.Azure")>]
+[<assembly: AssemblyTitle("FSharp.DocumentDb.Wrappers.Tests")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("Miguel Fajardo Turner")>]
-[<assembly: AssemblyProduct("FSharp.DocumentDb.Wrappers.Azure")>]
+[<assembly: AssemblyProduct("FSharp.DocumentDb.Wrappers.Tests")>]
 [<assembly: AssemblyCopyright("Copyright ©  2016")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("8923f353-754d-4f9d-9ae9-445262437b41")>]
+[<assembly: Guid("d8608324-83af-4ee5-9d2d-35d59033b74c")>]
 
 // Version information for an assembly consists of the following four values:
 // 
